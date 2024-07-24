@@ -1,0 +1,11 @@
+ID Selector:- 
+
+- Id Selector is a type of selector in which we can only style the tag once.
+- The ID of an element is unique.
+- It is denoted by " # ".
+
+
+Class Selector:- 
+
+- Class selector is a type of selector in which we can apply multiple classes to the same tag.
+- It is denoted by " . ".

@@ -1,0 +1,2 @@
+target attribute in anchor tag is used when we click on the link then the next website is opened in new blank page or that page only. 
+By default it will open on the same page.

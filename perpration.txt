@@ -1,0 +1,21 @@
+<html>
+<head><title> color porperties</title></head>
+
+<!-- color porperties
+1.universal name:red,yellow
+2.rgb value:rang 0-225
+3.hash value: rang aa-ff 0-9
+--->
+<style>
+.style{color:pinke;
+}
+
+.style2{
+color:rgb(130, 45, 66)
+]
+
+.style3{
+color:#6acccc;
+}
+
+</html>

@@ -1,0 +1,55 @@
+<html>
+<head> <title>ATTRIBUTE SELECTOR</title></head>
+<!-- attributr selector
+ 1.[attribute]
+ 2.attribute="value"]
+ 3.attribute ~= "value"] => will be used for value which is seperated by space
+ 4.[attribute |= "value"] => will be used for value which has - after the value
+ 5.[attribute ^= "value"]  => if the mentioned content of starting of values
+ 6.[attribute $= "value"]  => ending the value 
+ 7.[attribute *= "value"]  => substring the value
+--> 
+ <style>
+ [align]{
+ color:red;
+ }
+ 
+ [align="center"]{
+ color:green;
+ }
+ 
+ [class |= "tr"]{
+  color:red;
+  }
+  
+  [class ^= "some"]{
+  color:red;
+  
+  }
+  
+  [class $= "class"]{
+  color:orange;
+  }
+  
+  [class *= "demo"]{
+  color:pink;
+  }
+  
+ </style>
+ <body>
+ 
+ <h1 align="center"> this is heading</h1>
+ 
+ <h1 align="right">this is heading2</h2>
+ 
+ <h1 class="style1 style2 style2">this is heading 3</h1>
+
+<h1 class="tr-br">this is heading 4</h1>
+
+<h1 class="someclassname">this is heading 5</h1>
+
+<h1 class="someotherclass">this is heading 6</h1>
+
+<h1 class="somedemoclass">this is heading 7</h1>
+ </body>
+</html>

@@ -1,0 +1,3 @@
+- Bold tag is used to highlight the text where strong tag also works same.
+- Strong tag indicates that the text present in that tag is very important whereas the text present in the bold tag is highlighted only.
+- The priority or importance of the context is more in strong tag as compared to bold tag.

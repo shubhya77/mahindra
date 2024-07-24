@@ -1,0 +1,7 @@
+alt attribute in img tag is used when our image is unable to display on the screen that time the content present in the alt tag shows the information about the image which is given by user.
+
+Eg :-
+
+<img src= "---" alt = "itvedant website">
+
+in above example, image is unable to display but user provide the additional information about the image means in place of the image the content present next to alt tag will be displayed. 

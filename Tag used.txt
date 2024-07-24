@@ -1,0 +1,16 @@
+1. ID selector
+
+This selector is used when we have to style the content in just one style tag, suppose we created another tag but that tags properties will not be applicable. 
+In that case, both the styles will not be applicable for the elements.
+
+2. Class selector
+
+This selector is used when we have to style the content in multiple style tags, suppose we created another tag but in this case, both styles will be applied to the content.
+
+3. Tag selector
+
+This selector is used to style the particular tag
+
+
+EG-
+

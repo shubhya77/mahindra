@@ -1,0 +1,11 @@
+BLOCK ELEMENTS :-
+
+- Block elements in HTML are elements that start on a new line and take up the full width available.
+
+- The commonly used block elements are : <p> & <div>.
+
+INLINE ELEMENTS :-
+
+- An inline element does not start on a new line.
+- It takes up as much width as necessary. 
+- Example: <span> tag.

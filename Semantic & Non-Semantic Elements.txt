@@ -1,0 +1,22 @@
+Semantic Elements:- 
+
+- These are the HTML elements which provides meaning to the content.
+- It makes HTML page more understandable for both developers and web browsers.
+
+- Eg: <header>, <nav>, <main>, , <article>, <section>, <footer> are some of the examples of semantic elements.
+
+<header>
+    <h1>Welcome to My Website</h1>
+</header>
+
+ 
+Non-Semantic Elements:- 
+
+- These are the HTML elements that do not provide any information about the content within them.
+- Used for styling and layout purposes.
+
+- Eg: <div> & <span> are examples of non-semantic elements.
+
+<div>
+    <h1>Welcome to My Website</h1>
+</div>
